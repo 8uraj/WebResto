@@ -1,0 +1,13 @@
+/* Media queries for tablets and larger */
+@media (min-width: 768px) {
+    header {
+        padding: 20px 0;
+    }
+    
+    header h1 {
+        font-size: 3em;
+    }
+
+    /* Adjustments for larger screens */
+    /* Add more media queries as needed */
+}
